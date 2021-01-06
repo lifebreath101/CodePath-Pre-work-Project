@@ -4,7 +4,7 @@
 Allows the user to change the color of on screen text with the click of a button.
 
 ### App Walk-though
-<img src="Users/d/Desktop/Pre-work.gif" width=200><br>
+<img src="https://user-images.githubusercontent.com/54156482/103733473-a95fff80-4f9e-11eb-91ef-22bdb05bb700.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
